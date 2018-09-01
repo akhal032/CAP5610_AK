@@ -29,6 +29,8 @@
     "a) Let $f(x)= \\frac{1}{2}\\mathbf{x}^T\\mathbf{A}\\mathbf{x} + \\mathbf{b}^T\\mathbf{x}$ where $\\mathbf{A}$ is a symmetric matrix and $\\mathbf{b} \\in \\mathbb{R}^n$ is a vector. What is $\\nabla f(x)$?"
    ]
   },
+  {$f(x)= \\mathbf{A}\\mathbf{x} + \\mathbf{b}$
+  }
   {
    "cell_type": "code",
    "execution_count": null,
